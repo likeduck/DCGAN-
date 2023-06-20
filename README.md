@@ -1,1 +1,1 @@
-# DCGAN
+# Live-of-Omnipotent-Youth-Society
